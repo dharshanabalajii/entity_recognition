@@ -1,8 +1,10 @@
 # Virtual environment
 nerenv/
+nerenv2/
+
 env/
 venv/
-
+hp-tokenizer-bert-base-uncased/
 # Python bytecode
 __pycache__/
 *.py[cod]
