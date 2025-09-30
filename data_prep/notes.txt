@@ -1,0 +1,5 @@
+- dataset from https://ftp.ncbi.nlm.nih.gov/pubmed/baseline/
+
+- next for preprocessing make use of https://www.kaggle.com/code/hinepo/domain-adaptation-with-mlm?utm_source=chatgpt.com
+
+- next for combined DAPT and fine tuning go for https://colab.research.google.com/github/georgianpartners/Transformers-Domain-Adaptation/blob/master/notebooks/GuideToTransformersDomainAdaptation.ipynb?utm_source=chatgpt.com#scrollTo=-eSMtavl4i3e
