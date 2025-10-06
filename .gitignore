@@ -1,6 +1,7 @@
 # Virtual environment
 nerenv/
 nerenv2/
+nerenv_py311/
 
 env/
 venv/
